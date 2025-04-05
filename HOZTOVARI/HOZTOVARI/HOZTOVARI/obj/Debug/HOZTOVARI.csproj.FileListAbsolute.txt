@@ -1,0 +1,285 @@
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\HOZTOVARI.exe.config
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\HOZTOVARI.exe
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\HOZTOVARI.pdb
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\Google.Protobuf.dll
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\MySql.Data.dll
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\System.Buffers.dll
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\System.Memory.dll
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\ZstdSharp.dll
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\Google.Protobuf.pdb
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\Google.Protobuf.xml
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\MySql.Data.xml
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\System.Buffers.xml
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\System.Memory.xml
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.csproj.AssemblyReference.cache
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.Form1.resources
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.Properties.Resources.resources
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.csproj.GenerateResource.cache
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.csproj.CoreCompileInputs.cache
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.csproj.Up2Date
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.exe
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.pdb
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.AdminForm.resources
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.ManagerForm.resources
+C:\Users\MIX PC\source\repos\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.SalesForm.resources
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\HOZTOVARI.exe.config
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\HOZTOVARI.exe
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\HOZTOVARI.pdb
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\Google.Protobuf.dll
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\MySql.Data.dll
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Buffers.dll
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Memory.dll
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\ZstdSharp.dll
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\Google.Protobuf.pdb
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\Google.Protobuf.xml
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\MySql.Data.xml
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Buffers.xml
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Memory.xml
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.csproj.AssemblyReference.cache
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.AdminForm.resources
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.Form1.resources
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.ManagerForm.resources
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.Properties.Resources.resources
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.SalesForm.resources
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.csproj.GenerateResource.cache
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.csproj.CoreCompileInputs.cache
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.csproj.CopyComplete
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.exe
+C:\Users\student250\Downloads\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.pdb
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.csproj.AssemblyReference.cache
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.exe
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.pdb
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\HOZTOVARI.exe.config
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\HOZTOVARI.exe
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\HOZTOVARI.pdb
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\Google.Protobuf.dll
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\MySql.Data.dll
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Buffers.dll
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Memory.dll
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\ZstdSharp.dll
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\Google.Protobuf.pdb
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\Google.Protobuf.xml
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\MySql.Data.xml
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Buffers.xml
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Memory.xml
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.AdminForm.resources
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.Form1.resources
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.ManagerForm.resources
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.Properties.Resources.resources
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.SalesForm.resources
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.csproj.GenerateResource.cache
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.csproj.CoreCompileInputs.cache
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.csproj.Up2Date
+C:\Users\MIX PC\Downloads\KURSOVOY\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.CustomerForm.resources
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\HOZTOVARI.exe
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\MySql.Data.dll
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\HOZTOVARI.exe.config
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\Google.Protobuf.dll
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\MySqlBackup.dll
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Buffers.dll
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Memory.dll
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\ZstdSharp.dll
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\Google.Protobuf.pdb
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\Google.Protobuf.xml
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\MySql.Data.xml
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Buffers.xml
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Memory.xml
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.csproj.AssemblyReference.cache
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\Interop.LCC11.dll
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\Interop.MsoEuro.dll
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\Interop.MsoScreenRecorderLib.dll
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\Interop.TASKLAUNCHLib.dll
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.csproj.ResolveComReference.cache
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.AdminForm.resources
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.CustomerForm.resources
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.Form1.resources
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.ManagerForm.resources
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.Properties.Resources.resources
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.SalesForm.resources
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.csproj.GenerateResource.cache
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.csproj.CoreCompileInputs.cache
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.csproj.Up2Date
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.exe
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.pdb
+C:\Users\MIX PC\Downloads\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\HOZTOVARI.pdb
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\HOZTOVARI.exe.config
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\HOZTOVARI.exe
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\HOZTOVARI.pdb
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\Google.Protobuf.dll
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\MySql.Data.dll
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\MySqlBackup.dll
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Buffers.dll
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Memory.dll
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\ZstdSharp.dll
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\Google.Protobuf.pdb
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\Google.Protobuf.xml
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\MySql.Data.xml
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Buffers.xml
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Memory.xml
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.csproj.AssemblyReference.cache
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\Interop.LCC11.dll
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\Interop.MsoEuro.dll
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\Interop.MsoScreenRecorderLib.dll
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\Interop.TASKLAUNCHLib.dll
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.csproj.ResolveComReference.cache
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.AdminForm.resources
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.CustomerForm.resources
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.Form1.resources
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.ManagerForm.resources
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.Properties.Resources.resources
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.SalesForm.resources
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.csproj.GenerateResource.cache
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.csproj.CoreCompileInputs.cache
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.csproj.Up2Date
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.exe
+C:\Users\MIX PC\Downloads\zamt 26\zamt 26\курсовааая 26\курсовааая 26\курсовааая 26\KURSOVOY 11.03 (5)\KURSOVOY 11.03\KURSOVOY 11.03\KURSOVOY\KURSOVOY\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.pdb
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.csproj.AssemblyReference.cache
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\obj\Debug\Interop.MsoEuro.dll
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.csproj.ResolveComReference.cache
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.AdminForm.resources
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.CustomerForm.resources
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.Form1.resources
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.ManagerForm.resources
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.Properties.Resources.resources
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.SalesForm.resources
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.csproj.GenerateResource.cache
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.csproj.CoreCompileInputs.cache
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\bin\Debug\HOZTOVARI.exe.config
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\bin\Debug\HOZTOVARI.exe
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\bin\Debug\HOZTOVARI.pdb
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\bin\Debug\MySql.Data.dll
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\bin\Debug\Google.Protobuf.dll
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\bin\Debug\ZstdSharp.dll
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\bin\Debug\System.Memory.dll
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\bin\Debug\System.Buffers.dll
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\bin\Debug\MySql.Data.xml
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\bin\Debug\Google.Protobuf.pdb
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\bin\Debug\Google.Protobuf.xml
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\bin\Debug\System.Memory.xml
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\bin\Debug\System.Buffers.xml
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.csproj.CopyComplete
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.exe
+C:\Users\student243\Downloads\HOZTOVARI\HOZTOVARI\HOZTOVARI\obj\Debug\HOZTOVARI.pdb
